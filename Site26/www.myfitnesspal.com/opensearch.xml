@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>MyFitnessPal</ShortName>
+  <Description>Search foods on MyFitnessPal</Description>
+  <Url type="text/html" template="https://www.myfitnesspal.com/food/search">
+    <Param name="search" value="{searchTerms}"/>
+    <Param name="osd" value="true"/>
+  </Url>
+  <Image height="64" width="64" type="image/png">https://web-assets.myfitnesspal.com/favicons/mfp.png</Image>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

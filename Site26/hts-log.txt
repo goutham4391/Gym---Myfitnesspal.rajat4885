@@ -1,0 +1,62 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 18:40:42 at https://www.myfitnesspal.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.myfitnesspal.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Day6\Web26\Site26" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:41:10	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/es/
+18:41:10	Warning: 	File has moved from https://www.myfitnesspal.com/es/ to /es
+18:41:11	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/da/
+18:41:11	Warning: 	File has moved from https://www.myfitnesspal.com/da/ to /da
+18:41:12	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/de/
+18:41:12	Warning: 	File has moved from https://www.myfitnesspal.com/de/ to /de
+18:41:13	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/fr/
+18:41:13	Warning: 	File has moved from https://www.myfitnesspal.com/fr/ to /fr
+18:41:13	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/it/
+18:41:13	Warning: 	File has moved from https://www.myfitnesspal.com/it/ to /it
+18:41:14	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/ja/
+18:41:14	Warning: 	File has moved from https://www.myfitnesspal.com/ja/ to /ja
+18:41:14	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/ko/
+18:41:14	Warning: 	File has moved from https://www.myfitnesspal.com/ko/ to /ko
+18:41:15	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/nb/
+18:41:15	Warning: 	File has moved from https://www.myfitnesspal.com/nb/ to /nb
+18:41:16	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/nl/
+18:41:16	Warning: 	File has moved from https://www.myfitnesspal.com/nl/ to /nl
+18:41:17	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/pt/
+18:41:17	Warning: 	File has moved from https://www.myfitnesspal.com/pt/ to /pt
+18:41:17	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/sv/
+18:41:17	Warning: 	File has moved from https://www.myfitnesspal.com/sv/ to /sv
+18:41:18	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/pl/
+18:41:18	Warning: 	File has moved from https://www.myfitnesspal.com/pl/ to /pl
+18:41:18	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/id/
+18:41:18	Warning: 	File has moved from https://www.myfitnesspal.com/id/ to /id
+18:41:19	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/tl/
+18:41:19	Warning: 	File has moved from https://www.myfitnesspal.com/tl/ to /tl
+18:41:19	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/ru/
+18:41:19	Warning: 	File has moved from https://www.myfitnesspal.com/ru/ to /ru
+18:41:20	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/ms/
+18:41:20	Warning: 	File has moved from https://www.myfitnesspal.com/ms/ to /ms
+18:41:20	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/tr/
+18:41:20	Warning: 	File has moved from https://www.myfitnesspal.com/tr/ to /tr
+18:41:21	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/zh-CN/
+18:41:21	Warning: 	File has moved from https://www.myfitnesspal.com/zh-CN/ to /zh-CN
+18:41:22	Warning: 	Permanent Redirect for https://www.myfitnesspal.com/zh-TW/
+18:41:22	Warning: 	File has moved from https://www.myfitnesspal.com/zh-TW/ to /zh-TW
+18:44:41	Warning: 	Warning: store application/octet-stream without scan: C:/Users/RAJAT SINGH/OneDrive/Desktop/Day6/Web26/Site26/www.myfitnesspal.com/_next/static/media/conversion-apple-app-store-logo.751bc42c.svg
+18:46:52	Error: 	"Forbidden" (403) at link https://web-assets.myfitnesspal.com/fonts/ //web-assets.myfitnesspal.com/fonts/Inter-Light.woff2 (from https://web-assets.myfitnesspal.com/fonts/inter.css)
+18:46:52	Error: 	"Forbidden" (403) at link https://web-assets.myfitnesspal.com/fonts/ //web-assets.myfitnesspal.com/fonts/Inter-Light.woff (from https://web-assets.myfitnesspal.com/fonts/inter.css)
+18:46:52	Error: 	"Forbidden" (403) at link https://web-assets.myfitnesspal.com/fonts/ //web-assets.myfitnesspal.com/fonts/Inter-BoldItalic.woff2 (from https://web-assets.myfitnesspal.com/fonts/inter.css)
+18:46:52	Error: 	"Forbidden" (403) at link https://web-assets.myfitnesspal.com/fonts/ //web-assets.myfitnesspal.com/fonts/Inter-BoldItalic.woff (from https://web-assets.myfitnesspal.com/fonts/inter.css)
+18:47:42	Error: 	"Not Found" (404) at link https://www.myfitnesspal.com/welcome/opensearch.xml (from https://www.myfitnesspal.com/welcome/learn_more)
+18:48:26	Error: 	"Not Found" (404) at link https://www.myfitnesspal.com/welcome/mfpketo.user.js (from https://www.myfitnesspal.com/welcome/learn_more)
+18:49:51	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.myfitnesspal.com/welcome/learn_more)
+18:50:29	Error: 	"Not Found" (404) at link https://www.myfitnesspal.com/exercise/opensearch.xml (from https://www.myfitnesspal.com/exercise/lookup)
+18:50:29	Error: 	"Not Found" (404) at link https://www.myfitnesspal.com/exercise/mfpketo.user.js (from https://www.myfitnesspal.com/exercise/lookup)
+18:57:27	Error: 	"Not Found" (404) at link https://www.myfitnesspal.com/mfpketo.user.js (from https://www.myfitnesspal.com/apps)
+19:01:49	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
